@@ -1,12 +1,8 @@
 # Rooster-Rush
-My sidescroller Rooster Rush. The objective is to survive for 2 minutes, avoiding all the obstacles.
+This is the code I wrote for my game "Rooster Rush." The objective of the game was to survive as long as possible, by avoiding all the obstacles.
+Unfortunately this version is not playable, as it does not include needed classes, sprites, and sound files. (I did not create those assets so I did not want to upload them here.)
 
-# Source Code
-All of the code that I wrote is inside the included `Game.java` file.
 
-# How To Play
-- Extract RoosterRush.zip and run the included `.jar` file.
-- I was still inexperienced setting up java projects correctly, so it may not run, I apologize for the inconvinience.
 
-# Copyright
-I own none of the assets used in the making of this game. If you would like me to take this project down, please contact me at hello@jasoncodes.ca.
+### If you REALLY want to try it:
+Contact me at hello@jasoncodes.ca and I'll send you the game.
